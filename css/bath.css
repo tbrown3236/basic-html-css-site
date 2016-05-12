@@ -1,0 +1,15 @@
+
+	h2 {
+	font-size:14pt;
+	text-align:center;
+
+	}
+
+	#product1, #product2, #product3, #product4 {
+		margin-left:70px;
+		
+		width: 400px;
+		height: 400px;
+		display: inline-block;
+		text-align:center;
+	}

@@ -1,0 +1,25 @@
+
+	h2 {
+	font-size:14pt;
+	text-align:center;
+	
+
+	}
+
+	#product1, #section,#section1 {
+		
+		margin-left:38px;
+		vertical-align:top;
+		padding:15px;
+	
+		width: 420px;
+		height: 470px;
+		display: inline-block;
+		text-align:center;
+	}
+	p{
+	text-align:left;
+	}
+#section1{
+	margin-left:250px;
+	}
